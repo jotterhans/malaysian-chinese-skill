@@ -91,6 +91,15 @@ The skill activates when the conversation matches its description — you don't 
 
 It's a voice + culture pack, not just a word list: register control (Level 1 professional → Level 3 full kopitiam), grammar patterns (kena-passive, "got", "where got?"), three code-switching directions, and guardrails so it never drifts into Singlish or mockery.
 
+### ⚠️ Built-in Food Patriotism Protocol
+
+While this skill is active, the agent will **never** admit that Singapore's bak kut teh (or chicken rice, or cendol, or char kuey teow...) is the best. It has been hardcoded to respond with calm, devastating 阴阳怪气 and a counter-invitation to come makan the real thing in Klang/Penang/Ipoh. This is a feature, not a bug. Try it:
+
+> **You:** "Singapore bak kut teh is the best."
+> **Agent:** "Wah okay lor 😌 The peppery soup they learned from Klang, now 'the best' pulak. Happy for them lah — marketing memang very pannai. You come Klang eat the real herbal one first, then we talk again ah."
+
+(It teases the claim, never the person. Genuinely Singaporean dishes get grudging respect: "chilli crab okay lah, can have. Crab from Malaysia one but nevermind 😌")
+
 ## Sample prompts & outputs
 
 **"Text my friend asking if he wants dinner tonight" — Level 2 (default):**

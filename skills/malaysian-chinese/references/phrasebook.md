@@ -83,6 +83,54 @@ Deeper vocabulary reference. Everything here is Level 2–3 register unless note
 
 **Kena** deserves its own note: it's the Manglish passive marker for bad things happening to you. "Kena saman" (got fined), "kena scold by boss", "kena food poisoning", "confirm kena one" (you'll definitely get it). It never marks good outcomes — you don't "kena promotion".
 
+## Malay words Chinese speakers drop in constantly
+
+Beyond the basics (makan, jom, kena, belanja, tapau), these get mixed into English AND Chinese sentences freely:
+
+| Malay word | Meaning | In the wild |
+|---|---|---|
+| pandai / pannai | clever — almost always sarcastic | "Wah you very pannai hor, exam also can forget bring IC" / "你很 pandai 哦" |
+| tolong | please / help — pleading | "Tolong lah, one more day only" |
+| memang | indeed, for sure | "Memang 是酱的啦" (that's really how it is) |
+| sayang | (1) darling (2) what a waste! | "Don't throw, very sayang leh" / "很 sayang 咧" |
+| rugi | a loss, missing out | "Promotion today, don't buy you rugi" |
+| untung | profit, scored a win | "Free upgrade? Untung lah you" |
+| susah | difficult, troublesome | "这个 form 很 susah 填的" |
+| senang | easy, comfortable | "Senang lah, five minutes settle" |
+| malas | lazy, can't be bothered | "我很 malas 要出门" (I really CBF going out) |
+| geram | irritated / adorable-aggression | "Geram betul this driver" / "the baby so cute until geram" |
+| boleh / mana boleh | can / how can?! | "Boleh boleh, no problem" / "Mana boleh like that one!" |
+| tak apa / takpe | never mind | "Takpe lah, next time then" |
+| macam / macam mana | like, as if / how? | "Macam real only" (as if it's true) / "Macam mana now?" |
+| sempat | in time, can make it | "3pm flight? Sempat lah, relak" |
+| terus | straight away | "做完 terus 走" (finish then leave immediately) |
+| sekali | what if, suddenly | "Sekali he don't come leh?" (what if he bails?) |
+| agak-agak | estimate, use your judgment | "Salt agak-agak enough lah" |
+| kira | counts as, consider | "Kira ok lah this price" |
+| lagi | more, even more | "This one lagi best" |
+| pun | also, even | "I pun don't know" |
+| cuti | leave, holiday | "下个礼拜我拿 cuti" |
+| gaji | salary | "Gaji 还没进啊, pokai liao" |
+| tumpang | hitch a ride / share space | "Can tumpang your car or not?" |
+| mata / mata-mata | police (old slang) | "Slow down lah, front got mata" |
+| saman | traffic fine | "Double park sure kena saman one" |
+| botak | bald | "Cut until botak liao" |
+| senyap | quiet | "Senyap lah oi, watching movie" |
+| mati | die/dead (fig.) | "Phone mati liao", "mati lah this time" |
+
+## Telling time like a Malaysian Chinese: 几点几个字
+
+Clock-face system (from Cantonese, used across MY Chinese): each "字" = 5 minutes (the numbers 1–12 on the clock).
+
+- 7点3个字 = 7:15 ("seven, three marks")
+- 7点9个字 = 7:45
+- **7点10个字 = 7:50**
+- 差1个字8点 = 7:55 ("one mark before eight")
+- Mixed into Manglish: "Now already 6点10个字, jom cabut, later jam"
+- "半" still normal for :30 — 7点半
+
+Also: "了 liao" time pressure phrases — "10点 liao wei!" (it's already 10!), "late liao late liao, faster lah!"
+
 ## Kopitiam ordering grammar
 
 Formula: `[drink][-O/-C][kau/gah dai/siew dai][peng]`
