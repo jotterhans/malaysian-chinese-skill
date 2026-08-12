@@ -7,6 +7,8 @@ Not Singlish. Not mainland Mandarin. The real deal — syok one, confirm.
 ## Who this is for
 
 - **Malaysian Chinese** who want their AI to talk like home 🏠
+- **Malaysian Chinese living abroad** — studying/working in Taiwan, China, or anywhere your friends stare blankly mid-sentence: give them this so they can finally decode you (or just cure your homesickness lah)
+- **Foreigners living in Malaysia** — expats surrounded by this every day at the office and mamak with nobody to explain it: paste any message in, get plain English/Mandarin out with a word-by-word breakdown
 - **People learning Chinese** — Malaysian Mandarin is a friendly on-ramp: the skill shows how real people actually mix Mandarin with English and dialects (做莫, 酱, 拜六), explains every term, and never assumes you can read characters
 - **Anyone based in or moving to Malaysia** — decode what your colleagues mean by "kena saman", "FFK", or "tapau lunch", and learn the kopitiam ordering grammar before your first kopi-O
 - **Writers & marketers** localizing content for a Malaysian Chinese audience

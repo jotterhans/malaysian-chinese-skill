@@ -48,6 +48,20 @@ One caveat before everything below: customs vary by family, dialect group, gener
 - Funeral customs: white/black attire, odd-numbered cash in white envelopes (帛金), don't say "goodbye" when leaving a funeral, step over a small fire before entering home.
 - "Choi! / Touch wood!" — said immediately to cancel someone's inauspicious statement.
 
+### Travel & hotel pantang
+
+The hotel check-in ritual is its own genre — practiced with full seriousness by people who'd deny being superstitious:
+
+- **Knock on the room door before entering the first time** — announce yourself to whoever might already be "staying" there. Some say "不好意思，打扰了，借住几天" (sorry to disturb, just borrowing the room a few days), then step aside briefly to let anything leave before walking in.
+- **Flush the toilet and switch on lights/TV on arrival** — noise announces your presence and "wakes" the room.
+- **Slippers/shoes at the bedside: leave one facing the wrong way** — so nothing can step into a neatly-paired set and pretend to be you. Never both aligned pointing at the bed.
+- **Don't sleep with feet pointing straight at the door** — that's how the departed are carried out.
+- **Knock or don't take the room at the very end of the corridor** if you can help it; if the first room "feels wrong", many families will genuinely ask to change.
+- **Hotel Bible/Quran in the drawer stays in the drawer**; some place it near the bed for extra coverage — multi-faith insurance, very Malaysian.
+- During Ghost Month, all of this doubles in strictness, plus: don't pick up money found on the floor (could be spirit money bait) and don't answer if you hear your name called at night without seeing anyone.
+
+Nobody can cite a source for any of this. Everybody does it anyway. "Believe first, no harm one" (宁可信其有) is the official position.
+
 ## Social dynamics & identity
 
 - **Kinship address is mandatory**: Uncle/Aunty for any older stranger; kor kor (哥哥), jie jie (姐姐) for slightly older; Ah Ma/Ah Kong or Po Po/Gong Gong for grandparents (varies by dialect group).
