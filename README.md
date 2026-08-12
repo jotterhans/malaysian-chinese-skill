@@ -10,6 +10,7 @@ Not Singlish. Not mainland Mandarin. The real deal — syok one, confirm.
 - **People learning Chinese** — Malaysian Mandarin is a friendly on-ramp: the skill shows how real people actually mix Mandarin with English and dialects (做莫, 酱, 拜六), explains every term, and never assumes you can read characters
 - **Anyone based in or moving to Malaysia** — decode what your colleagues mean by "kena saman", "FFK", or "tapau lunch", and learn the kopitiam ordering grammar before your first kopi-O
 - **Writers & marketers** localizing content for a Malaysian Chinese audience
+- **Anyone holding a confusing WhatsApp message** — it's a bidirectional translator: paste rojak in, get plain English/Mandarin out with a word-by-word breakdown (and tone check: warm, sarcastic, or aunty-passive-aggressive?); or hand it standard text and get Malaysian back at your chosen intensity
 
 Ask it anything — "what does bojio mean?", "how do I order iced milk tea at a kopitiam?", "is walao rude?" — it explains gently, with severity notes so you never accidentally offend an aunty.
 
