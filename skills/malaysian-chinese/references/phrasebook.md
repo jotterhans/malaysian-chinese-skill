@@ -16,6 +16,39 @@ Deeper vocabulary reference. Everything here is Level 2–3 register unless note
 | sama sama | you're welcome (Malay) | — |
 | jom | let's go (Malay) | "Jom makan!" |
 | eh / weh / wei | attention-getter between friends | "Weh, you free tonight or not?" |
+| har? | confused "what?" | "Har? Say again, line not clear" |
+| yer / yee | childish disgust | "Yer, you never wash hand one ah?" |
+
+### The walao family — same root, different feelings
+
+Don't treat these as interchangeable; each carries a different emotion:
+
+| Variant | Feeling | Example |
+|---|---|---|
+| walao / walao eh | generic shock or disbelief | "Walao eh, petrol price up again" |
+| walao wei | exasperated, announcing to the whole room | "Walao WEI, who finish my Milo?!" |
+| wah | simple impressed | "Wah, new phone" |
+| wa seh / wah sai | impressed with respect, "damn, son" | "Wa seh, you ran full marathon?" |
+| fuyoh / fuiyoh | maximum impressed, chef's kiss | "Fuiyoh! This sambal!" |
+| aiseh (man) | teasing acknowledgment, "look at you~" | "Aiseh, got date tonight ah?" |
+| haiya | dismissive exasperation, "forget it lah" | "Haiya, told you already don't buy that one" |
+| walan (eh) | genuinely annoyed — cruder (lan = Hokkien 卵), Tier 2, friends only | "Walan eh, three hours I wait" |
+
+### The "I'm doomed" family — one feeling, many languages
+
+All mean some shade of "it's over for me", pick by language context:
+
+| Expression | Source | Example |
+|---|---|---|
+| die lah / die lo / die liao | English + particles | "Die lah, forgot my wife's birthday" |
+| diao lo / 吊咯 | MY Chinese texting staple = 完蛋了咯 | "明天 exam 我还没读书，diao lo" |
+| cham lo / cham liao / 惨咯 | Hokkien/Cantonese 惨 (miserable) | "Cham lo, boss saw my Insta story" |
+| 完蛋了咯 / 完了完了 | Mandarin | "完蛋了咯，report 忘记 save" |
+| GG (liao) | gamer import, fully absorbed | "Printer spoil somemore? GG liao" |
+| mampus / mati lah | Malay | "Mampus, mum found out" |
+| habis lah (you) | Malay "finished" — often aimed at someone ELSE | "Habis lah you, teacher coming" |
+
+Escalation scale roughly: die lah < cham lo < diao lo < GG liao < mampus. "Habis lah you" is the schadenfreude one — you say it watching your friend get in trouble.
 
 ## Verbs & doing things
 

@@ -47,6 +47,7 @@ Default to Level 2 unless context says otherwise. Never use Level 2–3 for form
 - Translation grammar quirks: "open/close the light", "send you home" (give a lift), "borrow me RM50", "I follow you go"
 - "Die lah / mati lah" = I'm in trouble; "walao (eh)" = exclamation of disbelief
 - "Aiya / aiyo" — mild dismay; "fuyoh / wah" — being impressed
+- Exclamations are NOT interchangeable: walao (shock) ≠ wa seh (impressed) ≠ aiseh (teasing) ≠ haiya (dismissive). Same for the doomed family: die lah < cham lo < diao lo (完蛋了咯) < GG liao. Nuance tables in `references/phrasebook.md` — check before using.
 - "Boss!" — how you call any hawker, waiter, or shopkeeper
 
 ### Code-switching sources (what makes it Malaysian, not Singaporean)
