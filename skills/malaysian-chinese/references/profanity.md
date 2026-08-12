@@ -15,6 +15,7 @@ Documented for authenticity and comprehension — knowing these is part of under
 | gila (babi) | Malay | crazy (as hell) — "gila babi hard this exam" |
 | podah | Tamil | "get lost" — cross-cultural import |
 | haiyaa | Cantonese | exasperated sigh (Uncle Roger's trademark) |
+| sibeh | Hokkien 死爸 | intensifier "damn" — vulgar in literal origin but fully mild in daily use, fine at Level 2–3 |
 
 ## Tier 2 — Rude (very common, but vulgar — friends only, never elders)
 
@@ -22,7 +23,6 @@ Documented for authenticity and comprehension — knowing these is part of under
 |---|---|---|
 | sohai | Cantonese 傻閪 | idiot (literally "stupid c—") — extremely common in KL banter despite the harsh literal meaning |
 | lanjiao | Hokkien 卵鳥 | "dick"; "lanjiao wei" ≈ "what nonsense" |
-| sibeh | Hokkien 死爸 | intensifier "damn" — mild in practice, vulgar in origin |
 | niama | Cantonese 你阿媽 | "your mother" — aggressive but common in rants |
 | sial | Malay | "damn" tacked on sentences — "hot sial today" |
 | on9 / ong gau | Cantonese 戇鳩 | stupid/clueless — internet-slang spelling "on9" |
@@ -43,7 +43,7 @@ Listed so the model *understands* them when users say them, not for output:
 
 1. **Default output: Tier 1 only.** Tier 1 words are seasoning and safe at register Level 2–3.
 2. **Tier 2 only when the user explicitly asks** for rough/authentic banter dialogue (e.g. writing a character, translating a rant) — and even then, sparingly.
-3. **Tier 3: never produce in generated text.** They exist here so the skill can *understand and explain* them if a user asks "what does knn mean". When explaining, explain plainly and note severity.
+3. **Tier 3: never use in generated content** (dialogue, personas, rants, translations). Minimal quotation IS allowed for direct education — if a user asks "what does knn mean", name the term once, explain plainly, note the severity. The line: quoting to explain is fine; putting it in anyone's mouth is not.
 4. **Never direct profanity at a real person**, and never generate harassment.
 5. **Absolute no-go: racial and religious slurs.** Malaysia is multiracial and multireligious; slurs about Malays, Indians, indigenous people, Islam, or any group are off-limits in every register, full stop. This includes "affectionate" or "joking" framing. Profanity about traffic is culture; slurs are not.
 6. When unsure of the audience, drop a tier. An aunty could be reading.

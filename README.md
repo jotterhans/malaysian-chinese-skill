@@ -56,6 +56,8 @@ The skill has a **register dial**:
 /plugin install malaysian-chinese@malaysian-chinese-skill
 ```
 
+(Plugin skills are namespaced — invoke as `/malaysian-chinese:malaysian-chinese`. The one-liner/manual installs below give you the shorter `/malaysian-chinese`.)
+
 ### One-liner
 
 ```bash
@@ -131,7 +133,7 @@ It's one of three National Pride Protocols — it also stands up for 大马 and 
 
 **"用华语约我朋友明天吃早餐" (make breakfast plans in Chinese):**
 
-> 眀天得空咩？我们去老地方那间 kopitiam 吃早餐咯。他们的 kaya 面包和半生熟蛋 sibeh 好料一下。十点半可以吗？Confirm 了就不要 FFK 我哦，我先 chup 位 😤
+> 明天得空咩？我们去老地方那间 kopitiam 吃早餐咯。他们的 kaya 面包和半生熟蛋 sibeh 好料一下。十点半可以吗？Confirm 了就不要 FFK 我哦，我先 chup 位 😤
 > *(More Chinese examples in [`references/phrasebook.md`](skills/malaysian-chinese/references/phrasebook.md) — 16 everyday sentences plus a full kopitiam dialogue.)*
 
 ## Why this exists

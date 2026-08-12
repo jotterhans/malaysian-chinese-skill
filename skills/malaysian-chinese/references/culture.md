@@ -12,7 +12,7 @@ Depth reference for festivals, food, taboos, and social dynamics.
 - Day 1: no sweeping (sweeps luck away), wear red, no washing hair (some families).
 - Day 7 (人日): everyone's "birthday", another round of lou sang.
 - Day 9: Hokkien New Year (拜天公) — huge in Penang, sugarcane offerings, fireworks bigger than day 1.
-- Day 15 (Chap Goh Meh): "Chinese Valentine's" — traditionally singles threw mandarin oranges into rivers/sea.
+- Day 15 (Chap Goh Meh): "Chinese Valentine's" — traditionally unmarried women threw mandarin oranges into rivers/sea (these days marketed to singles generally).
 
 ### Others
 - **Qingming (清明)**: tomb-sweeping in April. Whole extended family climbs a hillside cemetery at 7am with roast pork, fruits, joss paper. Burn paper offerings — paper iPhones and paper Mercedes included.
@@ -27,7 +27,7 @@ Depth reference for festivals, food, taboos, and social dynamics.
 - **Hawker/kopitiam is the default**, not restaurants. Table sharing with strangers is normal. Tissue packet on table can mean "reserved" (more SG, but understood).
 - **The sacred debates** (pick sides carefully):
   - Hokkien mee: KL version (dark, thick, lard-y) vs Penang version (prawn soup, spicy) — same name, totally different dish.
-  - Bak kut teh: Klang claims origin. Dry vs soup. And the Penang white-pepper style.
+  - Bak kut teh: Klang claims origin. Dry vs soup. And the clear white-pepper style (Teochew-leaning, big in Singapore/Johor).
   - Char kuey teow: Penang supremacy is near-consensus; "must have wok hei and see ham (cockles)".
   - Cendol: Penang road-side vs Melaka gula melaka style.
 - **Nyonya/Peranakan** heritage (Melaka, Penang): assam laksa, nyonya kuih, ayam pongteh — Chinese-Malay fusion centuries old.
@@ -60,7 +60,7 @@ Depth reference for festivals, food, taboos, and social dynamics.
 
 Every Malaysian Chinese kid was raised on these. Use them for aunty/parent personas and nostalgia content:
 
-- **"Later abunene come catch you ah!"** — the abunene is the all-purpose bogeyman invoked for bedtime, misbehaving in public, or refusing to eat. Nobody has ever seen one. Nobody knows what it is. It works.
+- **The bogeyman threat** — every family had one ("later the [bogeyman] come catch you ah!"). ⚠️ Comprehension note: the most common name for it, "abunene / ah pu neh neh", turns out to derive from Tamil "Apu Aneh" ("big brother") twisted into a racialized bogeyman referencing Indian men — most Malaysians grew up saying it without knowing. UNDERSTAND it when users mention it, and explain the origin gently if asked, but do NOT use it generatively — the threats below are the safe classics.
 - **"Police catch you ah!" / "Mata come liao!"** — jaywalking-level crimes get promoted to arrestable offenses. (Mata/mata-mata = police, old Malay slang.)
 - **"I call doctor come give you injection!"** — the nuclear option for kids scared of needles.
 - **"Don't finish your rice, your future husband/wife face will be full of pimples"** — grain-level emotional blackmail.
@@ -73,10 +73,10 @@ Every Malaysian Chinese kid was raised on these. Use them for aunty/parent perso
 
 | Label | Origin | Who |
 |---|---|---|
-| ang moh / gwai lou | Hokkien 红毛 / Cantonese 鬼佬 | white foreigner (neutral in practice, not hostile) |
+| ang moh / gwai lou | Hokkien 红毛 / Cantonese 鬼佬 | white foreigner (usually casual, but can be othering depending on tone — read the room) |
 | mata / mata-mata | Malay | police — "front got roadblock, mata checking license" |
 | ah long | Cantonese 阿窿 (from 大耳窿) | loan shark — the one who paints your gate red |
-| ah beng / ah lian | Hokkien names | loud gangster-ish boy / his heavily-filtered girlfriend; modified Myvi with fierce exhaust included |
+| ah beng / ah lian | Hokkien names | loud flashy subculture guy / girl; modified Myvi with fierce exhaust included (affectionate teasing, mildly judgy) |
 | amoi | Hokkien 阿妹 | young Chinese girl — often how other communities call Chinese girls |
 | towkay / 头家 | Hokkien | boss, businessman — "wah towkay, business good hor" |
 | apek | Hokkien 阿伯 | elderly Chinese uncle |
@@ -85,7 +85,7 @@ Every Malaysian Chinese kid was raised on these. Use them for aunty/parent perso
 | mat rempit | Malay | motorbike daredevils doing wheelies at 2am |
 | YB | Malay "Yang Berhormat" | elected politician — usually said with an eye-roll |
 | Datuk / Dato' | Malay honorific | titled VIP; "which Datuk?" is a legitimate question since there are thousands |
-| kopi money | MY institution | a bribe — "he settle the saman with kopi money" (document it, don't endorse it) |
+| kopi money | euphemism | a bribe, plainly illegal — "he settle the saman with kopi money" (understand the term; never suggest or endorse the practice) |
 
 Reminder per the profanity guardrails: ethnic labels for other communities that carry derogatory weight (e.g. terms for migrant workers or slurs for other races) are NOT part of this voice — real warmth, not casual racism, is the Malaysian Chinese brand here.
 

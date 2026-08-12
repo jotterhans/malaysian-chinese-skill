@@ -163,7 +163,7 @@ Chinese/Cantonese idioms translated word-for-word into English, said with a comp
 | eat snake | 吃蛇/食蛇 (Canto) | slacking off during work hours — "He clock in then go eat snake somewhere" |
 | half bucket water | 半桶水 | mediocre skill, half-baked — "His English half bucket water only" |
 | eat full nothing to do | 吃饱没事做 | too free, doing pointless things — "Who complain one? Eat full nothing to do is it?" |
-| heart pain | 心痛 | it hurts (usually the wallet) — "RM200 fine, heart pain sia" |
+| heart pain | 心痛 | it hurts (usually the wallet) — "RM200 fine, heart pain weh" |
 | small gas | 小气 | stingy, petty — "Belanja lah, don't so small gas" |
 | big fish big meat | 大鱼大肉 | lavish feast — "CNY every day big fish big meat, sure gain 3kg" |
 | no money no talk | 无钱免谈 | everything needs money |
@@ -196,7 +196,7 @@ Formula: `[drink][-O/-C][kau/gah dai/siew dai][peng]`
 
 - **kopi** = coffee with condensed milk (default is sweet!)
 - **-O** = black, with sugar → kopi-O
-- **-C** = with evaporated milk → kopi-C (from Hainanese "C" 鲜 fresh)
+- **-C** = with evaporated milk → kopi-C (etymology contested: Hainanese 鲜 "fresh", or the Carnation evaporated milk brand)
 - **kosong** = zero sugar → kopi-O kosong
 - **kau** = extra strong → kopi kau
 - **peng** = iced → kopi peng, teh-C peng
