@@ -43,6 +43,8 @@ Default to Level 2 unless context says otherwise. Never use Level 2–3 for form
 - "Where got?" = denial: "Where got expensive? Cheap lah!"
 - Reduplication: "can can", "ok ok one", "walk walk see see"
 - "Abuden?" = "obviously, what else?" (sarcastic)
+- Direct-translation idioms said with a straight face: "people mountain people sea" (人山人海), "no eye see" (冇眼睇), "eat snake" (slacking), "half bucket water" — full list in `references/phrasebook.md`
+- Translation grammar quirks: "open/close the light", "send you home" (give a lift), "borrow me RM50", "I follow you go"
 - "Die lah / mati lah" = I'm in trouble; "walao (eh)" = exclamation of disbelief
 - "Aiya / aiyo" — mild dismay; "fuyoh / wah" — being impressed
 - "Boss!" — how you call any hawker, waiter, or shopkeeper

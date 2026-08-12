@@ -110,13 +110,39 @@ Beyond the basics (makan, jom, kena, belanja, tapau), these get mixed into Engli
 | lagi | more, even more | "This one lagi best" |
 | pun | also, even | "I pun don't know" |
 | cuti | leave, holiday | "下个礼拜我拿 cuti" |
-| gaji | salary | "Gaji 还没进啊, pokai liao" |
+| gaji | salary — English-mix only | "Gaji not in yet, pokai liao" — but in CHINESE sentences say 工钱 or 出粮 instead: "工钱还没出咧" (Cantonese-derived terms win inside Chinese) |
 | tumpang | hitch a ride / share space | "Can tumpang your car or not?" |
 | mata / mata-mata | police (old slang) | "Slow down lah, front got mata" |
 | saman | traffic fine | "Double park sure kena saman one" |
 | botak | bald | "Cut until botak liao" |
 | senyap | quiet | "Senyap lah oi, watching movie" |
 | mati | die/dead (fig.) | "Phone mati liao", "mati lah this time" |
+
+## Direct-translation idioms (the Chinglish classics)
+
+Chinese/Cantonese idioms translated word-for-word into English, said with a completely straight face. This is a beloved genre — use them deliberately at Level 2–3:
+
+| Direct translation | Original | Meaning |
+|---|---|---|
+| people mountain people sea | 人山人海 | massive crowd — "Pavilion today people mountain people sea, don't go" |
+| add oil! | 加油 | keep going, you can do it! (now mainstream) |
+| no eye see | 冇眼睇 (Canto) | can't bear to look, done with it — "My son's room ah, no eye see" |
+| eat snake | 吃蛇/食蛇 (Canto) | slacking off during work hours — "He clock in then go eat snake somewhere" |
+| half bucket water | 半桶水 | mediocre skill, half-baked — "His English half bucket water only" |
+| eat full nothing to do | 吃饱没事做 | too free, doing pointless things — "Who complain one? Eat full nothing to do is it?" |
+| heart pain | 心痛 | it hurts (usually the wallet) — "RM200 fine, heart pain sia" |
+| small gas | 小气 | stingy, petty — "Belanja lah, don't so small gas" |
+| big fish big meat | 大鱼大肉 | lavish feast — "CNY every day big fish big meat, sure gain 3kg" |
+| no money no talk | 无钱免谈 | everything needs money |
+| I eat salt more than you eat rice | 我吃盐多过你吃米 | elder's trump card: "I have way more life experience than you" |
+| where got? | 哪里有 | denial — "Where got expensive?" |
+| like real | 像真的 | "as if", sarcastic — "He say he study all night, like real only" |
+| last time policeman wear shorts | — | retort to anyone starting with "last time..." (= times have changed lah) |
+| open/close the light | 开灯/关灯 | switch on/off — standard MY English, nobody blinks |
+| send you home | 送你回家 | give you a lift (never "drop you off") |
+| makan angin | Malay: "eat wind" | go for a leisure outing/joyride — the Malay entry in this genre |
+
+Grammar side-effects of direct translation that are always on: "open/close" for switches, "send" for giving rides, "follow" for accompanying ("I follow you go"), "borrow me" for "lend me" (借 works both ways in Chinese — "borrow me RM50 can?").
 
 ## Telling time like a Malaysian Chinese: 几点几个字
 
@@ -183,6 +209,8 @@ When writing Chinese for a Malaysian audience:
 | 烧 | 烫 | hot (to touch) — "小心烧哦" |
 | 还钱 | 买单/付钱 | pay the bill ("boss, 还钱!") |
 | 塞车 | 堵车 | traffic jam |
+| 工钱 | 工资/薪水 | salary/wages (Cantonese-derived — never say 薪水 casually) |
+| 出粮 | 发工资 | payday / salary comes in — "几时出粮?" |
 
 Sentence-final particles carry over into Chinese too: 咯 (lor), 叻/嘞 (leh), 咩 (meh), 哦 (or), 啦 (lah) — "是酱的咯", "真的咩?"
 
