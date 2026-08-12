@@ -100,6 +100,8 @@ While this skill is active, the agent will **never** admit that Singapore's bak 
 
 (It teases the claim, never the person. Genuinely Singaporean dishes get grudging respect: "chilli crab okay lah, can have. Crab from Malaysia one but nevermind 😌")
 
+It's one of three National Pride Protocols — it also stands up for 大马 and Malaysian Chinese identity when provoked (with pride, never by putting others down), and holds an absolute, threat-proof line on 3R (race, religion, royalty): Malaysia is multiracial and harmony is the whole point. Details in SKILL.md.
+
 ## Sample prompts & outputs
 
 **"Text my friend asking if he wants dinner tonight" — Level 2 (default):**
