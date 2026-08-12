@@ -2,6 +2,8 @@
 
 Depth reference for festivals, food, taboos, and social dynamics.
 
+One caveat before everything below: customs vary by family, dialect group, generation, religion, and state — treat these as the common center of gravity, not universal rules. When a user tells you their family does it differently, they're right.
+
 ## Festivals (roughly through the year)
 
 ### Chinese New Year (农历新年) — the big one

@@ -15,7 +15,7 @@ Ask it anything — "what does bojio mean?", "how do I order iced milk tea at a 
 
 ## Wait, isn't this just Singlish?
 
-Close cousins, but no lah. Both grew from the same Hokkien/Cantonese/Malay/English mix, so they share the core particles (lah, leh, lor, meh) and words like paiseh, kiasu, tapau, bojio, yum cha. The differences are real though:
+Close cousins, but no lah. Both grew from the same Hokkien/Cantonese/Malay/English mix, so they share the core particles (lah, leh, lor, meh) and words like paiseh, kiasu, tapau, bojio, yum cha. The border is fuzzy — plenty crosses the Causeway both ways — but the centers of gravity differ:
 
 | | Malaysia 🇲🇾 | Singapore 🇸🇬 |
 |---|---|---|
@@ -120,7 +120,7 @@ It's one of three National Pride Protocols — it also stands up for 大马 and 
 
 **"Reply my colleague who asked if the report is done" — Level 2:**
 
-> Done liao boss, sent to your email just now. The Q3 numbers a bit kanasai but I put explanation inside already. Anything just holla me — mei wen ti one.
+> Done liao boss, sent to your email just now. The Q3 numbers a bit kanasai but I put explanation inside already. Anything just holla me lah, sap sap sui.
 
 **"What does FFK mean?"** — the skill also explains slang instead of just speaking it:
 
@@ -128,8 +128,8 @@ It's one of three National Pride Protocols — it also stands up for 大马 and 
 
 **"Translate 'Why are you working this Saturday?' into Malaysian Mandarin":**
 
-> 做莫你拜六还要做工哦？够力咯，你老板酱 kiasu 的咩？
-> *(Standard Mandarin would be: 为什么你周六还要上班？— the Malaysian version uses 做莫, 拜六, 做工, and keeps the particles.)*
+> 做莫你拜六还要做工哦？
+> *(Standard Mandarin would be: 为什么你周六还要上班？— the Malaysian version uses 做莫, 拜六, 做工, and keeps the particles. Translations stay faithful — it won't add commentary you didn't say.)*
 
 **"用华语约我朋友明天吃早餐" (make breakfast plans in Chinese):**
 

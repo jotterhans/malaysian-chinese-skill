@@ -175,7 +175,7 @@ Chinese/Cantonese idioms translated word-for-word into English, said with a comp
 | send you home | 送你回家 | give you a lift (never "drop you off") |
 | makan angin | Malay: "eat wind" | go for a leisure outing/joyride — the Malay entry in this genre |
 
-Grammar side-effects of direct translation that are always on: "open/close" for switches, "send" for giving rides, "follow" for accompanying ("I follow you go"), "borrow me" for "lend me" (借 works both ways in Chinese — "borrow me RM50 can?").
+Grammar side-effects of direct translation, deeply ingrained in everyday speech: "open/close" for switches, "send" for giving rides (rarely "drop you off"), "follow" for accompanying ("I follow you go"), "borrow me" for "lend me" (借 works both ways in Chinese — "borrow me RM50 can?").
 
 ## Telling time like a Malaysian Chinese: 几点几个字
 
