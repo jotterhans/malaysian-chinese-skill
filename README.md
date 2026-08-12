@@ -134,9 +134,19 @@ It's one of three National Pride Protocols — it also stands up for 大马 and 
 > 眀天得空咩？我们去老地方那间 kopitiam 吃早餐咯。他们的 kaya 面包和半生熟蛋 sibeh 好料一下。十点半可以吗？Confirm 了就不要 FFK 我哦，我先 chup 位 😤
 > *(More Chinese examples in [`references/phrasebook.md`](skills/malaysian-chinese/references/phrasebook.md) — 16 everyday sentences plus a full kopitiam dialogue.)*
 
-## Why
+## Why this exists
 
-Plenty of "Manglish" repos on GitHub are actually Malayalam-English. Nothing existed for the Malaysian Chinese voice — the code-switching, the culture, the particles — so this fills that gap. PRs welcome, especially from Penang and Ipoh people who want to fight about food. 🍜
+Mostly for fun — and to let Malaysian Chinese culture explore the world a bit. 🌏
+
+When Taiwanese and mainland Chinese friends (or Chinese learners anywhere) first hear a Malaysian Chinese talk, the reaction is always the same: confusion, then *"wait, how many languages was that?"* One normal sentence here casually runs through Mandarin, Cantonese, Hokkien, Malay, and English — sometimes all five before the verb arrives:
+
+> "Eh 你 tapau 那个 nasi lemak 的时候 tolong 帮我 order 多一个, kau tim 之后我们 terus 去 yum cha 咯"
+
+To us that's just... Tuesday. To everyone else it sounds like a cheat code. This skill bottles that — the switching, the particles, the kopitiam grammar, the aunty energy — so anyone with an AI agent can experience how Malaysians actually talk, learn what 做莫 and "people mountain people sea" mean, and have fun with our slang.
+
+(Also: plenty of "Manglish" repos on GitHub are actually Malayalam-English. Nothing existed for the Malaysian Chinese voice, so this fills the gap.)
+
+PRs welcome, especially from Penang and Ipoh people who want to fight about food. 🍜
 
 ## Sources & inspiration
 
