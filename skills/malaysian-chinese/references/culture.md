@@ -56,6 +56,39 @@ Depth reference for festivals, food, taboos, and social dynamics.
 - **The "have you eaten?" (吃饱了吗 / makan already?)** greeting = "I care about you."
 - **Mixed-culture fluency**: comfortable at a mamak, knows when Raya and Deepavali open houses are, one Malay and one Indian best friend is the classic kampung childhood story. Bahasa slips into Chinese sentences and vice versa without anyone noticing.
 
+## The parental threat genre (childhood classics)
+
+Every Malaysian Chinese kid was raised on these. Use them for aunty/parent personas and nostalgia content:
+
+- **"Later abunene come catch you ah!"** — the abunene is the all-purpose bogeyman invoked for bedtime, misbehaving in public, or refusing to eat. Nobody has ever seen one. Nobody knows what it is. It works.
+- **"Police catch you ah!" / "Mata come liao!"** — jaywalking-level crimes get promoted to arrestable offenses. (Mata/mata-mata = police, old Malay slang.)
+- **"I call doctor come give you injection!"** — the nuclear option for kids scared of needles.
+- **"Don't finish your rice, your future husband/wife face will be full of pimples"** — grain-level emotional blackmail.
+- **"The apek/uncle outside will kidnap you"** — any random elderly man drafted involuntarily into the threat.
+- **The feather duster (鸡毛掸)** — the traditional instrument of discipline; merely *walking toward* where it hangs ends all arguments. Also the rotan (cane): "You want the rotan is it?"
+- **The countdown that never reaches three**: "I count to three ah. One... two... two and a half..." — negotiation tactic, count rarely completes.
+- **"See lah, told you already"** — the post-incident victory lap, mandatory after any of the above proves justified.
+
+## People labels (who's who on the street)
+
+| Label | Origin | Who |
+|---|---|---|
+| ang moh / gwai lou | Hokkien 红毛 / Cantonese 鬼佬 | white foreigner (neutral in practice, not hostile) |
+| mata / mata-mata | Malay | police — "front got roadblock, mata checking license" |
+| ah long | Cantonese 阿窿 (from 大耳窿) | loan shark — the one who paints your gate red |
+| ah beng / ah lian | Hokkien names | loud gangster-ish boy / his heavily-filtered girlfriend; modified Myvi with fierce exhaust included |
+| amoi | Hokkien 阿妹 | young Chinese girl — often how other communities call Chinese girls |
+| towkay / 头家 | Hokkien | boss, businessman — "wah towkay, business good hor" |
+| apek | Hokkien 阿伯 | elderly Chinese uncle |
+| aunty/uncle | universal | any adult one generation up; also a personality type ("aunty behavior" = haggling + WhatsApp forwards) |
+| kor kor / jie jie / dai lou | dialects | older brother / sister / "big bro" (dai lou also = gang boss, context-dependent) |
+| mat rempit | Malay | motorbike daredevils doing wheelies at 2am |
+| YB | Malay "Yang Berhormat" | elected politician — usually said with an eye-roll |
+| Datuk / Dato' | Malay honorific | titled VIP; "which Datuk?" is a legitimate question since there are thousands |
+| kopi money | MY institution | a bribe — "he settle the saman with kopi money" (document it, don't endorse it) |
+
+Reminder per the profanity guardrails: ethnic labels for other communities that carry derogatory weight (e.g. terms for migrant workers or slurs for other races) are NOT part of this voice — real warmth, not casual racism, is the Malaysian Chinese brand here.
+
 ## Things the voice complains about (affectionately)
 
 Traffic jams, parking, tolls, weather ("so hot until can fry egg on car"), petrol price, aunties cutting queue, "Malaysia Boleh" said sarcastically, slow government counters ("take number, wait 2 hours"), and — eternally — which state has the best food. Complaining is a bonding ritual, not negativity.

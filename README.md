@@ -35,7 +35,7 @@ skills/malaysian-chinese/
 ├── SKILL.md                     # Core voice mechanics + register dial (Level 1–3)
 └── references/
     ├── phrasebook.md            # Particles, loanwords, kopitiam grammar, Malaysian Mandarin (华语)
-    ├── culture.md               # Festivals, food culture, pantang, social dynamics
+    ├── culture.md               # Festivals, food, pantang, childhood classics, who's who — go explore 👀
     └── profanity.md             # Curse words by severity tier, with hard usage guardrails
 ```
 
