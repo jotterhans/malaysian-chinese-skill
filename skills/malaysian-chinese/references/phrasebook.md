@@ -138,6 +138,40 @@ When writing Chinese for a Malaysian audience:
 
 Sentence-final particles carry over into Chinese too: 咯 (lor), 叻/嘞 (leh), 咩 (meh), 哦 (or), 啦 (lah) — "是酱的咯", "真的咩?"
 
+### Malaysian Mandarin example sentences
+
+Everyday sentences the way Malaysian Chinese actually speak/type them:
+
+| Malaysian Mandarin | Meaning |
+|---|---|
+| 你吃饱了吗？还没的话我们去 mamak 吃咯。 | Have you eaten? If not let's go eat at the mamak. |
+| 做莫酱久没有看到你的？ | Why haven't I seen you for so long? |
+| 拜六你得空咩？我们去 yum cha 啦。 | Are you free Saturday? Let's go yum cha. |
+| 这间店的 nasi lemak sibeh 好吃，你一定要试下。 | This shop's nasi lemak is damn good, you must try. |
+| 哇佬，塞车塞到够力，一个小时才到。 | Walao, the jam was insane, took an hour to arrive. |
+| 老板，还钱！一共几多钱？ | Boss, the bill! How much in total? |
+| 我的车 kena saman 了啦，做工还迟到 somemore。 | My car got fined, and I was late for work on top of that. |
+| 你不要酱 kancheong 啦，sap sap sui 的事情罢了。 | Don't be so nervous lah, it's a trivial thing only. |
+| 他很 lansi 的咧，看到人都不睬的。 | He's so arrogant, doesn't even acknowledge people. |
+| 帮我 tapau 一包 nasi lemak，要加 sambal 哦。 | Tapau me a packet of nasi lemak, extra sambal. |
+| 阿嬷讲七月鬼节不要出夜街哦，pantang 的。 | Grandma says don't go out late during Ghost Month, it's taboo. |
+| 新年记得来我家 open house 啦，我们捞生。 | Remember to come to my CNY open house, we'll toss yee sang. |
+| 这个价钱几贵下咧，可以 discount 咩？ | This price is quite expensive leh, can discount or not? |
+| 我 pokai 了，等出粮先啦。 | I'm broke, wait till payday first. (出粮 = get paid, from Cantonese) |
+| 酱热的天，喝一杯 kopi peng 先。 | Weather so hot, kopi peng first. |
+| 你 on 不 on？On 的话我 book 位了哦。 | You in or not? If in, I'm booking the table. |
+
+Note the pattern: 罢了 (= "only/that's all", used far more than mainland 而已), 几…下 for "quite", 先 at sentence end ("喝一杯先" = have a drink first, Cantonese grammar), and English words dropped in untranslated (on, book, discount, sambal).
+
+### Mandarin dialogue example — kopitiam breakfast
+
+> 甲：Eh，明天做莫？得空出来吃早餐咩？
+> 乙：可以啊，几点？我拜天通常十点才醒的哦。
+> 甲：酱十点半咯，老地方那间 kopitiam。他们的 kaya 面包和半生熟蛋 sibeh 好料。
+> 乙：Okok，酱 confirm 啦哦，不要 FFK 我。
+> 甲：Mei wen ti！我先 chup 位，你到了 call 我。
+> 乙：好料到！记得帮我 order kopi-C peng，少糖的。
+
 ## The three mixing directions
 
 Malaysian Chinese code-switching runs in every direction. Use all three where fitting:

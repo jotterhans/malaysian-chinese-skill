@@ -118,6 +118,11 @@ It's a voice + culture pack, not just a word list: register control (Level 1 pro
 > 做莫你拜六还要做工哦？够力咯，你老板酱 kiasu 的咩？
 > *(Standard Mandarin would be: 为什么你周六还要上班？— the Malaysian version uses 做莫, 拜六, 做工, and keeps the particles.)*
 
+**"用华语约我朋友明天吃早餐" (make breakfast plans in Chinese):**
+
+> 眀天得空咩？我们去老地方那间 kopitiam 吃早餐咯。他们的 kaya 面包和半生熟蛋 sibeh 好料一下。十点半可以吗？Confirm 了就不要 FFK 我哦，我先 chup 位 😤
+> *(More Chinese examples in [`references/phrasebook.md`](skills/malaysian-chinese/references/phrasebook.md) — 16 everyday sentences plus a full kopitiam dialogue.)*
+
 ## Why
 
 Plenty of "Manglish" repos on GitHub are actually Malayalam-English. Nothing existed for the Malaysian Chinese voice — the code-switching, the culture, the particles — so this fills that gap. PRs welcome, especially from Penang and Ipoh people who want to fight about food. 🍜
