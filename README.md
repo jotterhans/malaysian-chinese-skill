@@ -11,7 +11,8 @@ skills/malaysian-chinese/
 ├── SKILL.md                     # Core voice mechanics + register dial (Level 1–3)
 └── references/
     ├── phrasebook.md            # Particles, loanwords, kopitiam grammar, Malaysian Mandarin (华语)
-    └── culture.md               # Festivals, food culture, pantang, social dynamics
+    ├── culture.md               # Festivals, food culture, pantang, social dynamics
+    └── profanity.md             # Curse words by severity tier, with hard usage guardrails
 ```
 
 The skill has a **register dial**:
@@ -24,7 +25,22 @@ The skill has a **register dial**:
 
 ## Install
 
-### Claude Code (personal skill)
+### One-liner (easiest)
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/jotterhans/malaysian-chinese-skill/main/install.sh | bash
+```
+
+Installs into `~/.claude/skills/malaysian-chinese`. Then just ask: *"reply me in Malaysian Chinese style"* or invoke `/malaysian-chinese`.
+
+### As a Claude Code plugin
+
+```
+/plugin marketplace add jotterhans/malaysian-chinese-skill
+/plugin install malaysian-chinese@malaysian-chinese-skill
+```
+
+### Manual
 
 ```bash
 git clone https://github.com/jotterhans/malaysian-chinese-skill.git
@@ -32,11 +48,7 @@ mkdir -p ~/.claude/skills
 cp -r malaysian-chinese-skill/skills/malaysian-chinese ~/.claude/skills/
 ```
 
-Then just ask: *"reply me in Malaysian Chinese style"* or invoke `/malaysian-chinese`.
-
-### Claude Code (project skill)
-
-Copy `skills/malaysian-chinese/` into your project's `.claude/skills/` directory.
+For a project-scoped install, copy `skills/malaysian-chinese/` into your project's `.claude/skills/` directory instead.
 
 ## Example prompts
 

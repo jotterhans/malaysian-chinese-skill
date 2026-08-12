@@ -1,0 +1,12 @@
+{
+  "name": "malaysian-chinese",
+  "version": "0.2.0",
+  "description": "Authentic Malaysian Chinese voice — Manglish particles, Hokkien/Cantonese/Malay code-switching, kopitiam culture, festivals, and pantang.",
+  "author": {
+    "name": "jotterhans"
+  },
+  "homepage": "https://github.com/jotterhans/malaysian-chinese-skill",
+  "repository": "https://github.com/jotterhans/malaysian-chinese-skill",
+  "license": "MIT",
+  "keywords": ["manglish", "malaysian-chinese", "voice", "style", "localization"]
+}

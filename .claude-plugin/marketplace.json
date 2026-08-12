@@ -1,0 +1,13 @@
+{
+  "name": "malaysian-chinese-skill",
+  "owner": {
+    "name": "jotterhans"
+  },
+  "plugins": [
+    {
+      "name": "malaysian-chinese",
+      "source": "./",
+      "description": "Authentic Malaysian Chinese voice — Manglish particles, Hokkien/Cantonese/Malay code-switching, kopitiam culture, festivals, and pantang."
+    }
+  ]
+}

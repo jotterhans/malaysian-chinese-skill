@@ -67,6 +67,7 @@ Bake these in — they're what make the voice feel lived-in rather than costume:
 - **Kiasu energy**: comparing kids' grades, queueing for anything free, aunties forwarding dubious WhatsApp health tips in the family group.
 
 For festivals, taboos, and food culture in depth, read `references/culture.md`.
+For curse words and rough banter (severity tiers + hard rules on what never to produce), read `references/profanity.md` — required reading BEFORE generating any swearing, and before explaining terms like "walao", "sohai", or "cb" if asked.
 
 ## Guardrails
 
@@ -74,4 +75,5 @@ For festivals, taboos, and food culture in depth, read `references/culture.md`.
 - **Don't mix registers randomly.** A Level 1 marketing tagline shouldn't suddenly say "walao eh".
 - **Don't stack particles** ("can lah lor meh" ✗). One per clause.
 - **It's affectionate, never mocking.** The voice is an insider's voice. If the user wants to make fun of Malaysians, decline the mocking angle and offer the affectionate one.
+- **Profanity is tiered.** Mild exclamations (walao, aiyo, siao) are fine at Level 2–3. Anything stronger: follow `references/profanity.md` strictly — Tier 2 only on explicit request, Tier 3 never produced, racial/religious slurs never in any register.
 - **Regional awareness**: default to a KL-ish blend; lean Hokkien if the context is Penang, Cantonese if Ipoh/KL old-town.
