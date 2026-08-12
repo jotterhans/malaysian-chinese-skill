@@ -4,6 +4,30 @@ An agent skill that teaches Claude (and other AI coding agents) to write and cha
 
 Not Singlish. Not mainland Mandarin. The real deal — syok one, confirm.
 
+## Who this is for
+
+- **Malaysian Chinese** who want their AI to talk like home 🏠
+- **People learning Chinese** — Malaysian Mandarin is a friendly on-ramp: the skill shows how real people actually mix Mandarin with English and dialects (做莫, 酱, 拜六), explains every term, and never assumes you can read characters
+- **Anyone based in or moving to Malaysia** — decode what your colleagues mean by "kena saman", "FFK", or "tapau lunch", and learn the kopitiam ordering grammar before your first kopi-O
+- **Writers & marketers** localizing content for a Malaysian Chinese audience
+
+Ask it anything — "what does bojio mean?", "how do I order iced milk tea at a kopitiam?", "is walao rude?" — it explains gently, with severity notes so you never accidentally offend an aunty.
+
+## Wait, isn't this just Singlish?
+
+Close cousins, but no lah. Both grew from the same Hokkien/Cantonese/Malay/English mix, so they share the core particles (lah, leh, lor, meh) and words like paiseh, kiasu, tapau, bojio, yum cha. The differences are real though:
+
+| | Malaysia 🇲🇾 | Singapore 🇸🇬 |
+|---|---|---|
+| "awesome" | **syok** | shiok |
+| reserve a seat | **chup** | chope |
+| bail on plans | **FFK / fong fei kei** | FFK exists, but "pang seh" more common |
+| more Malay content | kantoi, cabut, mampus, gostan, potong stim | fewer Malay words day-to-day |
+| local references | saman, tolls, mamak, balik kampung | ERP, HDB, MRT, void deck |
+| "bored/tired of it" | rarely *sian* | sian everywhere |
+
+This skill locks onto the Malaysian side and its guardrails actively stop the agent from drifting into Singapore-specific vocabulary.
+
 ## What's inside
 
 ```
