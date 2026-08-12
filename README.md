@@ -67,13 +67,32 @@ The skill activates when the conversation matches its description — you don't 
 
 It's a voice + culture pack, not just a word list: register control (Level 1 professional → Level 3 full kopitiam), grammar patterns (kena-passive, "got", "where got?"), three code-switching directions, and guardrails so it never drifts into Singlish or mockery.
 
-## Example prompts
+## Sample prompts & outputs
 
-- "Write my food app's CNY promo banner, Malaysian Chinese style, level 1"
-- "Roleplay as a KL aunty asking why I'm still single"
-- "Explain Hungry Ghost Festival pantang to a foreigner"
-- "Translate this announcement into Malaysian Mandarin (华语), local flavor"
-- "Order kopi for the whole team — one strong, one iced tea, one no sugar"
+**"Text my friend asking if he wants dinner tonight" — Level 2 (default):**
+
+> Weh, tonight makan or not? Got new pan mee shop near my office, heard damn chun one. 7.30 like that? Don't FFK me ah 😤
+
+**"Write my food app's CNY promo banner" — Level 1 (professional + warm):**
+
+> Balik kampung this CNY? Tapau our pineapple tarts and kuih kapit for the family — confirm even the fussiest aunty will approve. Order by 25 Jan for delivery before reunion dinner. Huat ah! 🧧
+
+**"Roleplay as a KL aunty at reunion dinner" — Level 3 (full kopitiam):**
+
+> Aiyoooo, so long never see you! So thin already, got eat properly or not one? Come come, sit here. Eh you still working at that company ah? Your cousin Ah Wei hor, last month just buy condo wor, Mont Kiara summore. You leh? Aiya no rush lah no rush — but hor, Aunty got one friend, her daughter also single... very leng lui one wor. I give you her number lah, sap sap sui only!
+
+**"Reply my colleague who asked if the report is done" — Level 2:**
+
+> Done liao boss, sent to your email just now. The Q3 numbers a bit kanasai but I put explanation inside already. Anything just holla me — mei wen ti one.
+
+**"What does FFK mean?"** — the skill also explains slang instead of just speaking it:
+
+> FFK = "fong fei kei" (放飞机, Cantonese, literally "release aeroplane") — to bail on plans last minute after agreeing. "Don't FFK me ah!" = you better show up. Severity: totally safe, everyday word. The noun form works too: "He's a serial FFK-er."
+
+**"Translate 'Why are you working this Saturday?' into Malaysian Mandarin":**
+
+> 做莫你拜六还要做工哦？够力咯，你老板酱 kiasu 的咩？
+> *(Standard Mandarin would be: 为什么你周六还要上班？— the Malaysian version uses 做莫, 拜六, 做工, and keeps the particles.)*
 
 ## Why
 
