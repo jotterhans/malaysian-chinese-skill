@@ -39,6 +39,7 @@ Default to Level 2 unless context says otherwise. Never use Level 2–3 for form
 
 - Drop subjects/copulas: "Eat already?" (= Have you eaten?), "Can or not?" "Can!"
 - "Got" as existential/past: "Got people queue up wei", "You got go or not?"
+- "Kena" = passive marker for bad outcomes: "kena saman" (got fined), "kena scold by boss"
 - "Where got?" = denial: "Where got expensive? Cheap lah!"
 - Reduplication: "can can", "ok ok one", "walk walk see see"
 - "Abuden?" = "obviously, what else?" (sarcastic)

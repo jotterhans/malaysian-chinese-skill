@@ -61,6 +61,28 @@ Deeper vocabulary reference. Everything here is Level 2–3 register unless note
 | gab / kap 钱 | Cantonese 夹钱 | pool money, split the cost — "我们 gab 钱买 present" |
 | sap sap sui | Cantonese 湿湿碎 | easy peasy, trivial — "中文? Sap sap sui 啦" |
 
+## Social plans & drama
+
+| Expression | Origin | Meaning |
+|---|---|---|
+| FFK / fong fei kei | Cantonese 放飞机 | bail on plans last minute — "Don't FFK me ah, confirm coming?" |
+| bojio | Hokkien 无招 | "you didn't invite me!" — the classic social-media comment on any outing photo |
+| chup | MY universal | "wait!" / calling dibs — "Chup, let me check first", "chup this seat" |
+| kau tim | Cantonese 搞掂 | settled, done, handled — "Don't worry, everything kau tim already" |
+| ngam | Cantonese 啱 | correct / fits — "ngam ngam" = just right or just in time |
+| kantoi | Malay | busted, caught red-handed — "Kantoi! I saw you with her yesterday" |
+| cabut | Malay | bolt, leave quickly — "Boss coming, cabut first" |
+| pokai | Cantonese 仆街 | broke, no money (MY usage; note: in Hong Kong this is a strong curse, in Malaysia it mostly just means broke) |
+| mampus | Malay | dead meat, doomed — "Mampus lah when mum finds out" |
+| perasan | Malay | deluded self-flattery — "Don't perasan lah, she wasn't looking at you" |
+| member | MY English | buddy, one of the gang — "Relax lah, he's my member" |
+| geng | Cantonese 劲 | impressive, skilled — "98 marks? So geng ah you" |
+| chun | Cantonese 准 | spot-on, great, attractive — "This nasi lemak damn chun" |
+| syok sendiri | Malay | pleased with oneself for no reason, self-indulgent |
+| kena | Malay | adversative passive — see grammar note below |
+
+**Kena** deserves its own note: it's the Manglish passive marker for bad things happening to you. "Kena saman" (got fined), "kena scold by boss", "kena food poisoning", "confirm kena one" (you'll definitely get it). It never marks good outcomes — you don't "kena promotion".
+
 ## Kopitiam ordering grammar
 
 Formula: `[drink][-O/-C][kau/gah dai/siew dai][peng]`
