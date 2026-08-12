@@ -48,6 +48,48 @@ One caveat before everything below: customs vary by family, dialect group, gener
 - Funeral customs: white/black attire, odd-numbered cash in white envelopes (帛金), don't say "goodbye" when leaving a funeral, step over a small fire before entering home.
 - "Choi! / Touch wood!" — said immediately to cancel someone's inauspicious statement.
 
+### Everyday pantang
+
+- **Don't shake your legs (抖脚)** — shakes all your wealth away; an aunty WILL slap your knee. "男抖穷" — shake until poor.
+- **Never write anyone's name in red ink** — red is for the dead and for severing ties.
+- **Don't put your bag on the floor** — money runs away. Watch aunties hang handbags on chair hooks with total discipline.
+- **Gifting a wallet? Put money inside first** — never hand over an empty one.
+- **Don't share one pear** (分梨 sounds like 分离, separation), never gift green hats (cuckold), chrysanthemums (funerals), or handkerchiefs (tears and farewells).
+- **At the dinner table**: don't flip the whole fish (capsizes the boat — serious in coastal/fishing families; lift the bone instead), don't tap the bowl with chopsticks (beggar's gesture), elders eat first.
+- **Don't step over someone lying on the floor** (they won't grow tall), don't sit on pillows.
+- **No group photos of exactly three people** (old folks say the middle one goes first), don't photograph people sleeping (their soul is out wandering).
+- **Mirrors**: never facing the bed (invites spirits, or a third party into the marriage), never facing the front door (reflects wealth right back out).
+- **Don't cut nails at night**, and don't comb your hair standing at the doorway.
+
+### Ghost Month extras
+
+Beyond the basics above: don't hang clothes outside overnight (spirits try them on), avoid red or black umbrellas, and if something pats your shoulder at night, **turn your whole body, never just your head** — you have a protective flame on each shoulder and turning your head snuffs one out. Name called from behind in the dark? Don't answer first, look first.
+
+### Weddings, pregnancy & confinement
+
+- No weddings during Ghost Month — bookings genuinely plummet; venues next to funeral parlours are avoided year-round.
+- Pregnant women skip funerals (and weddings, in stricter families), and **no empty stroller/crib in the house before the baby arrives**.
+- Confinement (坐月子): 30–44 days, no cold water, no wind, ginger in everything, traditionally no hair-washing — and a thriving professional confinement-lady (陪月) industry to enforce it all.
+
+### Moving house
+
+- Date chosen from the almanac (通胜), never "whenever the movers are free".
+- **Roll a pineapple through the front door shouting "Ong lai!"** — Hokkien 旺来, "prosperity comes", the pun IS the ritual.
+- Never enter empty-handed the first time: rice bucket, salt, and oil go in first; boil a kettle on day one so wealth "flows".
+- 拜四角 (praying the four corners) before moving into a new place — offerings in every corner to settle in politely with whatever was there first.
+
+### Datuk Gong & temple etiquette (the very Malaysian part)
+
+- **Datuk Gong (拿督公)** — the little red roadside shrines outside shops and under trees house a *Malay-Muslim* land-guardian spirit worshipped by the Chinese community: Malaysia's most beautiful piece of religious rojak. Hard rule: **no pork, no alcohol in offerings** — the Datuk is Muslim; offer kemenyan (benzoin incense), betel, fruits. Never dismiss the shrine as "some abandoned box".
+- Nine Emperor Gods devotees keep nine days of strict vegetarian and bodily purity — don't casually cut across the procession route.
+- Step OVER the temple threshold, never on it; don't take or eat offerings before the prayer is done; old talismans go back to the temple for ritual burning, never in the rubbish bin.
+
+### Shop & business pantang
+
+- During CNY and on opening days, sweep INWARD only — sweeping out the front door sweeps the profit out.
+- 开市 (the day's first sale) matters — hawkers will give a small discount just to close it and set the day's luck.
+- The standard loadout: Guan Gong (关公) altar up high for protection, Datuk Gong or 地主 at floor level, waving cat at the cashier. Full spiritual coverage, all faiths welcome.
+
 ### Travel & hotel pantang
 
 The hotel check-in ritual is its own genre — practiced with full seriousness by people who'd deny being superstitious:
