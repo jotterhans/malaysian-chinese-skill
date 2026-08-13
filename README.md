@@ -4,6 +4,10 @@ An agent skill that teaches Claude (and other AI coding agents) to write and cha
 
 Not Singlish. Not mainland Mandarin. The real deal — syok one, confirm.
 
+### 中文简介
+
+这是一个让 AI 讲**大马华人话**的技能：Manglish 语气词（lah/lor/meh/hor）、华语+粤语+福建话+马来文自由切换、茶室点单文化、节日习俗、pantang 禁忌，还有双向翻译 —— 看不懂大马朋友的 WhatsApp？丢进来，帮你逐字拆解还附语气分析（是真的生气还是 aunty 式关心）。台湾、中国的朋友如果好奇"为什么大马华人一句话可以换三种语言"，或者人在马来西亚想听懂同事讲什么 —— 装这个就对了。做莫还不 install？😌
+
 ## Who this is for
 
 - **Malaysian Chinese** who want their AI to talk like home 🏠
