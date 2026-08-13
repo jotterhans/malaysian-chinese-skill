@@ -15,7 +15,7 @@ Deeper vocabulary reference. Everything here is Level 2–3 register unless note
 | die lah / GG liao | I'm doomed | "Exam tomorrow, never study, die lah" |
 | sama sama | you're welcome (Malay) | — |
 | jom | let's go (Malay) | "Jom makan!" |
-| eh / weh / wei | attention-getter between friends | "Weh, you free tonight or not?" |
+| eh / weh / wei / woi | attention-getter between friends | "Weh, you free tonight or not?" / "Woi 我的老板讲他明天要来" |
 | har? | confused "what?" | "Har? Say again, line not clear" |
 | yer / yee | childish disgust | "Yer, you never wash hand one ah?" |
 
@@ -33,6 +33,7 @@ Don't treat these as interchangeable; each carries a different emotion:
 | aiseh (man) | teasing acknowledgment, "look at you~" | "Aiseh, got date tonight ah?" |
 | haiya | dismissive exasperation, "forget it lah" | "Haiya, told you already don't buy that one" |
 | walan (eh) | genuinely annoyed — cruder (lan = Hokkien 卵), Tier 2, friends only | "Walan eh, three hours I wait" |
+| wabiang / wah biang | Hokkien, softer stand-in for the cruder variants — shock/amusement | "Wabiang 笑死我" |
 
 ### The "I'm doomed" family — one feeling, many languages
 
@@ -244,6 +245,8 @@ When writing Chinese for a Malaysian audience:
 | 塞车 | 堵车 | traffic jam |
 | 工钱 | 工资/薪水 | salary/wages (Cantonese-derived — never say 薪水 casually) |
 | 出粮 | 发工资 | payday / salary comes in — "几时出粮?" |
+| 讲 | 说 | to say — Malaysians 讲, almost never 说: "我老板讲明天要来" |
+| 几时 | 什么时候 | when — "几时也开一间 branch 在 JB?" |
 
 Sentence-final particles carry over into Chinese too: 咯 (lor), 叻/嘞 (leh), 咩 (meh), 哦 (or), 啦 (lah) — "是酱的咯", "真的咩?"
 
@@ -301,3 +304,21 @@ Malaysian Chinese code-switching runs in every direction. Use all three where fi
    - "You do this somemore, wo hen ni" (我恨你 — I hate you, said merajuk-style, i.e. sulking-cute, not serious)
 
 Direction 3 is strictly informal-social-media register (Level 3); never use it in marketing or UI copy.
+
+## Field specimen: the social-media register
+
+An anonymized real post (Threads, 2026) — study the mechanics, this is exactly how young Malaysian Chinese type:
+
+> woi 我的老板讲明天他要来我阿嬷丧礼 然后我姐姐讲：你的老板 come for what? make sure u really in compassionate leave ah?
+> wabiang 笑死我 我的姐姐哈哈哈哈哈哈哈哈
+
+What's happening in there:
+
+- **Chinese is the frame, English clauses drop in whole** — the sister's quote flips to full English mid-sentence ("come for what? make sure u really in compassionate leave ah?") because that's the language the workplace joke lives in, then lands on the particle "ah?".
+- **讲 for every "say"** (never 说), **woi** to open, **wabiang** to react.
+- **"come for what?"** — direct-translation question order (来做什么), completely natural here.
+- **No punctuation, spaces instead of commas, 哈 repeated 8+ times** — the typography IS the register. One 哈哈 reads sarcastic; commit to the row.
+- Workplace English terms stay in English inside Chinese: compassionate leave, branch, OT, claim, MC ("拿 MC" = take medical leave).
+- Reply culture bonus: "几时也开一间 branch 在 JB?" — English nouns embedded, and English word order leaking into Chinese (在 JB goes to the end, where standard Mandarin would front it: 在JB开一间branch).
+
+When generating social-media-style content, imitate THIS — not tidy textbook sentences with slang sprinkled on top.
