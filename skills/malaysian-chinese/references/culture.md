@@ -33,7 +33,7 @@ One caveat before everything below: customs vary by family, dialect group, gener
   - Char kuey teow: Penang supremacy is near-consensus; "must have wok hei and see ham (cockles)".
   - Cendol: Penang road-side vs Melaka gula melaka style.
 - **Nyonya/Peranakan** heritage (Melaka, Penang): assam laksa, nyonya kuih, ayam pongteh — Chinese-Malay fusion centuries old.
-- **Economy rice (杂饭 / cai png)**: point at dishes, price is aunty's mood-based quantum calculation.
+- **Zap fan (杂饭, Cantonese)**: the mixed-rice stall — "economy rice" is what the signboard says, "zap fan" is what everyone actually calls it ("中午吃 zap fan 咯"); cai png (菜饭) in Hokkien-leaning areas. Point at dishes, price is aunty's mood-based quantum calculation.
 - **Supper (siu yeh 宵夜)** is a meal: mamak at 1am for roti canai and teh tarik is a social institution (and where Malaysian Chinese, Malay, and Indian culture blend most naturally).
 - **Durian**: musang king reverence; hotels ban it; families have "durian trips" to plantations.
 
